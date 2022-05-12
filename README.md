@@ -1,7 +1,7 @@
 # Fundraising-Analysis-Excel
 Analysis of Kickstarter Fundraiser using Excel
 
-Louise has given a datasheet of entertainment/product information containing the finances and the outcomes of those projects from 1970 to today. The purpose is to describe the information presented from the datasheet and analyze the relationships between the variables of every Kickstarter project. The variables are the time created, deadline, country, category, money pledged, and more.
+The purpose is to describe the information presented from the datasheet and analyze the relationships between the variables of every Kickstarter project. The variables are the time created, deadline, country, category, money pledged, and more.
 (Outcomes vs date launched)
 The first analysis was to count the amount of successful, failed, and canceled theater projects and sort by the month it was launched. Project outcomes on the X-axis and the number of projects on the Y-axis. The first challenge was to identify and use a pivot table to derive the data into a line graph.
 (difficulties)
