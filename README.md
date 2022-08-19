@@ -13,7 +13,7 @@ The difficult part was finding the fields list to use the pivot table because th
 
 
 
-![Theater Outcomes vs Launch](C:\Users\ryanc\OneDrive\Desktop\FOLDER\Fundraising-Analysis-Excel/Theater_Outcomes_vs_Launch "Results 1")
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79386482/185548678-e7dd29a5-c49d-419a-8912-201e61977e08.PNG)
 
 
 (results)
@@ -31,4 +31,4 @@ What gave me trouble was understanding how to create the table without the use o
 (results)
 We can conclude that a majority of plays that had high goals above 15,000 failed more often except for the ones between 35,000 to 40,000. Additionally, there were no canceled plays. An alternative presentation that works just as well is the column bars.
 
-C:\Users\ryanc\OneDrive\Desktop\FOLDER\Fundraising-Analysis-Excel
+![Outcomes_Vs_Goals](https://user-images.githubusercontent.com/79386482/185548656-b267c101-a907-4c2c-8747-19b134ae5366.PNG)
